@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="dio-trilha-java-basico/Trilha Java Básico/src"/>
+	<classpathentry kind="src" path="Trilha Java Básico/src"/>
+	<classpathentry kind="output" path="Trilha Java Básico/bin"/>
+</classpath>
